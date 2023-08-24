@@ -3,4 +3,5 @@
 <div>
 <a href="https://github.com/brigadeirodebacon">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brigadeirodebacon&show_icons=true&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brigadeirodebacon&show_icons=true&theme=radical"/>
 </div>
